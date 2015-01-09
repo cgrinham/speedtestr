@@ -13,9 +13,8 @@ def create_chart(input_dict, filename, title):
     """ Create the output chart with pygal"""
     line_chart = pygal.Line(style=LightSolarizedStyle)
     line_chart.title = title
-    line_chart.x_labels = [x[0] for x in sorted(input_dict[0]["data"].items())]
+    line_chart.x_labels = [x[0][1] for x in sorted(input_dict[0]["data"].items())]
     for dataset in input_dict:
-        #print [x[1] for x in sorted(dataset["data"].items())]
         line_chart.add(dataset["title"], [x[1] for x in sorted(dataset["data"].items())])
     line_chart.render_to_file(filename)
 
@@ -30,7 +29,7 @@ def organise_data(period_length, index):
                 # If the period length is daily, get day of week
                 if period_length == "daily":
                     year, month, day = (int(x) for x in r[0].split('/'))
-                    period_index = str(datetime(year, month, day).weekday())
+                    period_index = (str(datetime(year, month, day).weekday()), datetime(year, month, day).strftime("%A"))
                 # If period length is hourly, get hour
                 elif period_length == "hourly":
                     period_index = r[1][:-3]
@@ -59,13 +58,13 @@ def organise_data(period_length, index):
     return data_median
 
 while True:
-    
+    """
     try:
         speedtest.speedtest()
     except:
         with open("errors.log", "a") as myfile:
             myfile.write("Failed at %s" % datetime.now().strftime('%Y/%m/%d %H:%M'))
-
+    """
     
     print "Creating Hourly Speed Chart..."
     hourly_data_dict = [{"title" : "Download", "data" : organise_data("hourly", 6)}, {"title" : "Upload", "data" : organise_data("hourly", 7)}]

@@ -1,0 +1,7 @@
+Speedtestr by Christie Grinham
+
+Run regular speedtests for your internet connection and add them to a cvs file. Create charts of daily and hourly average speeds.
+
+This project uses a modified version of speedtest-cli by Matt Martz and is distributed under the Apache License v2.0.
+
+speedtest-cli has been modified to return data rather than print it.

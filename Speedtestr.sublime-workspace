@@ -1,0 +1,1044 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"favour",
+				"favourites"
+			],
+			[
+				"favourites",
+				"favourites"
+			],
+			[
+				"favou",
+				"favourites"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"abs",
+				"abs_thumb_path"
+			],
+			[
+				"user",
+				"userimage-container"
+			],
+			[
+				"absolute",
+				"absolutepath"
+			],
+			[
+				"ab",
+				"abs_path"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"new",
+				"new_path"
+			],
+			[
+				"thumbs",
+				"thumbs_folder"
+			],
+			[
+				"folder",
+				"folderlist"
+			],
+			[
+				"root",
+				"root_folder"
+			],
+			[
+				"new_",
+				"new_path"
+			],
+			[
+				"ne",
+				"new_thumb_path"
+			],
+			[
+				"cur_",
+				"cur_folder"
+			],
+			[
+				"cur",
+				"cur_folder"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"number",
+				"numberofimages"
+			],
+			[
+				"list",
+				"list_folders"
+			],
+			[
+				"images",
+				"imagesbycolour"
+			],
+			[
+				"colour",
+				"colourlist"
+			],
+			[
+				"get",
+				"get_hue_name"
+			],
+			[
+				"hue",
+				"hue_value"
+			],
+			[
+				"req",
+				"requested_colour"
+			],
+			[
+				"favourite",
+				"favourite"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"emai",
+				"emailhash"
+			],
+			[
+				"fa",
+				"favourite"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"Favou",
+				"Favourite"
+			],
+			[
+				"pickl",
+				"pickledlist"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"make",
+				"make_thumbnail"
+			],
+			[
+				"imagesp",
+				"images_path"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"png",
+				"png_info"
+			],
+			[
+				"output",
+				"outputfolder"
+			],
+			[
+				"image",
+				"imagelist"
+			],
+			[
+				"imagef",
+				"imagefolder"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"u",
+				"userimage-controls"
+			],
+			[
+				"Gener",
+				"GenerateThumbnails"
+			],
+			[
+				"thumb",
+				"thumblist"
+			],
+			[
+				"cr",
+				"cur_foldername"
+			],
+			[
+				"home",
+				"homepage_render"
+			],
+			[
+				"message",
+				"message_render"
+			],
+			[
+				"pass",
+				"passwordsalt"
+			],
+			[
+				"we",
+				"welcome"
+			],
+			[
+				"pss",
+				"password"
+			],
+			[
+				"passwo",
+				"password"
+			],
+			[
+				"newu",
+				"newuser"
+			],
+			[
+				"hom",
+				"homepage_render"
+			],
+			[
+				"che",
+				"check_password"
+			],
+			[
+				"password",
+				"passwordhash"
+			],
+			[
+				"hash",
+				"hash_password"
+			],
+			[
+				"salt",
+				"salted_password"
+			],
+			[
+				"input",
+				"input_password"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"ima",
+				"images_path"
+			],
+			[
+				"ghov",
+				"ghoverlay"
+			],
+			[
+				"ghover",
+				"ghoverlaycontainer"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"contac",
+				"contactbtn"
+			],
+			[
+				"over",
+				"overthousand"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"under",
+				"underthousand"
+			],
+			[
+				"contact",
+				"contactbtncontainer"
+			],
+			[
+				"contactbtn",
+				"contactbtncontainer"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"loca",
+				"locationimages"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"soc",
+				"socialicons"
+			],
+			[
+				"viol",
+				"violetlink"
+			],
+			[
+				"jus",
+				"justify"
+			],
+			[
+				"map",
+				"map_canvas"
+			],
+			[
+				"my",
+				"myLatLng"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"box",
+				"boxsizing"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"hight",
+				"hightech"
+			],
+			[
+				"high",
+				"hightechbg"
+			],
+			[
+				"angel",
+				"angelrooms"
+			],
+			[
+				"location",
+				"locationimg1"
+			],
+			[
+				"displ",
+				"display:block"
+			],
+			[
+				"ghspaces",
+				"ghspaces"
+			],
+			[
+				"table",
+				"table-layout"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"pri",
+				"privatehireimages"
+			],
+			[
+				"privatehire",
+				"privatehirefolio"
+			],
+			[
+				"phimg",
+				"phimg2"
+			],
+			[
+				"ph",
+				"phimg3"
+			],
+			[
+				"christ",
+				"christmasleft"
+			],
+			[
+				"rese",
+				"reservations"
+			],
+			[
+				"goog",
+				"googlemaps"
+			],
+			[
+				"chr",
+				"christmasbox"
+			],
+			[
+				"chri",
+				"christmas"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"c",
+				"christmasbox"
+			],
+			[
+				"christmas",
+				"christmasbox"
+			],
+			[
+				"pr",
+				"privatehire"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"priva",
+				"privatehirefolio"
+			],
+			[
+				"bsiz",
+				"background-size:   (property)"
+			],
+			[
+				"social",
+				"socialIcons"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"privatehi",
+				"privatehireimages"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"displa",
+				"display:block"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"fi",
+				"first-of-type  (pseudo-class)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "speedtestr.py",
+			"settings":
+			{
+				"buffer_size": 3616,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/ChordPro/Buildsystems/chordpro.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/internetcontent.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/static/js/imagefunctions.js",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/internet.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/homelayout.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/userindex.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/static/css/style.css",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/home.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/subusercontent.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/usercontent.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/auto.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/usersub.html",
+		"/Users/christiegrinham/Dropbox/Webdev/christieisaac/index.htm",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/tests/move/inpala's Moodboard 1 - 20_files/style.css",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/tests/move/inpala's Moodboard 1 - 20.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/login.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/account.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/favourites.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/newuser.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard-uploader/colours.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/tests/colour.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/tests/colour2.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/static/js/passwordvalidate.js",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/welcome.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/static/js/nav.js",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/message.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/test.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/expenses/bin/app.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/sublayout.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/verify.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/welcometest.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/js/owl.carousel.js",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Python The Hard Way/ex39.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Tests/urlopen.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/uploadimage.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/tests/jquery.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/tests/inpala.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/layout.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/resources/logos/favicon.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/static/js/rotate.js",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/tests/inpala_files/style.css",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/static/style.css",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/docs/TODOold.txt",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/templates/piloutput.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/auto2.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/moodboard/oldversions/auto0.2.py",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/css/ghspace.css",
+		"/Users/christiegrinham/Dropbox/Teaching/Spider Excercises Tab.txt",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/soho/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/ec1studio/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/goswellroad/css/screen.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/goswellroad/jackbox/js/jackbox.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/angel/jackbox/js/jackbox.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/jackbox/js/jackbox.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/soho/jackbox/js/jackbox.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/virtual/jackbox/js/jackbox.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/goswellroad/css/supersized.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/angel/css/supersized.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/carlislestreet/css/supersized.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/css/supersized.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/soho/css/supersized.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/virtual/css/supersized.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/angel/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/goswellroad/classes/contact.php",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/carlislestreet/js/kenway.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/goswellroad/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/carlislestreet/classes/contact.php",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/js/FeedEk2.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/css/supersized.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/virtual/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/carlislestreet/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/ec1studio/portfolio-flex-small.html",
+		"/Users/christiegrinham/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/angelrooms/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/sohorooms/index.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/css/FeedEk.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/newsiteadditions.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/soho/portfolio-flex-small.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/angelrooms/css/screen.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/maps.html",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/sohorooms/css/screen.css",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Tools/batchrename.py",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/sohorooms/jackbox/js/jackbox.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/sohorooms/jackbox/modules/jackbox_social.php",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/sohorooms/js/kenway.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/css/screen.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/soho/css/screen.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/js/kenway.js",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/css/skeleton.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/ec1studio/css/screen.css",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/megafolio/css/settings.css",
+		"/Users/christiegrinham/Library/Application Support/Sublime Text 2/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/js/jquery.parallax-1.1.3.js",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/sitebuilder/buildsite.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Tests/extip.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/JSON/parsefilefolder.py",
+		"/Users/christiegrinham/Dropbox/Current Work/GHSpace/GH Space/newsite/piano/index2.html",
+		"/Users/christiegrinham/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/virtual/index.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Tests/multiblink.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/expenses/bin/app.pyc",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/css/ghspace.css",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/newsiteadditions.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/angel/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/sohorooms/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/angelrooms/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/359goswell/css/screen.css",
+		"/Volumes/CGRINHAM/Documents/GH Space/tests/backgroundchanger/container.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/359goswell/css/base.css",
+		"/Volumes/CGRINHAM/Documents/GH Space/tests/backgroundchanger/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/newsite/359goswell/index.html",
+		"/Users/christiegrinham/Dropbox/Webdev/christieisaac/main.css",
+		"/Volumes/CGRINHAM/Documents/GH Space/html/ec1studio/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/html/sohorooms/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/html/ec1studio/css/screen.css",
+		"/Volumes/CGRINHAM/Documents/GH Space/html/css/ghspace.css",
+		"/Volumes/CGRINHAM/Documents/GH Space/Wordpress/x-child-ethos/css/oursitescarousel.css",
+		"/Users/christiegrinham/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/CGRINHAM/Documents/GH Space/kenway_download/dark/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/Wordpress/x-child-ethos/framework/views/ethos/wp-footer.php",
+		"/Volumes/CGRINHAM/Documents/GH Space/html/sohorooms/classes/contact.php",
+		"/Volumes/CGRINHAM/Documents/GH Space/Wordpress/Carousel Test/index.html",
+		"/Volumes/CGRINHAM/Documents/GH Space/html/sohorooms/css/screen.css",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/expenses/bin/expenses.py",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/expenses/templates/layout.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/expenses/templates/expense.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/expenses/templates/total.html",
+		"/Users/christiegrinham/Dropbox/Programming/Python/Projects/expenses/templates/accounts.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session.favour",
+			"delete",
+			"move",
+			"40px",
+			"nav ul",
+			"len",
+			"f for f",
+			"folderlist",
+			"where",
+			"colour",
+			"web.input",
+			"container",
+			"accoun",
+			"sub",
+			"index",
+			"post",
+			"favourites",
+			"index",
+			"message_render",
+			"homepage_render.message",
+			"message",
+			"homepage_render.",
+			"homepage_render.m",
+			"newuser",
+			"verify",
+			"account",
+			"login",
+			"favourites",
+			"db.upda",
+			"db.select",
+			"password",
+			"db.upda",
+			"login",
+			"welcome",
+			"new",
+			"webm",
+			"static/users",
+			"static",
+			"usersfolder",
+			"image_directory",
+			"image_dire",
+			"static",
+			"dir",
+			"img",
+			"pil",
+			"css",
+			"get_",
+			"image_directory, user, \"images\"",
+			"+",
+			"session",
+			"8080",
+			"image_directory",
+			"url",
+			"moodboard",
+			"render",
+			"manual",
+			"gil",
+			"gill",
+			"gilsans",
+			"FLOORPLANS",
+			"shedule",
+			"agreement",
+			"fully furnish",
+			"agreement",
+			"gig",
+			"Floorplan",
+			"social",
+			"#christmas ",
+			"780",
+			"480",
+			"479",
+			"contactbtnco",
+			"social",
+			"contactbtn",
+			"social",
+			"piano",
+			"command not",
+			"sylla",
+			"roomsfeature",
+			"justify",
+			"contactFor",
+			"contact",
+			"error",
+			"error_",
+			"location",
+			"5px",
+			"submit",
+			"width: 60px;\n    height: 60px;",
+			"violet",
+			"hightech",
+			"form",
+			"concierge",
+			"load",
+			"feedEk",
+			"violet",
+			"piano",
+			"piano bar",
+			"schedule",
+			"social",
+			"googlemaps",
+			"iframe",
+			"maps",
+			" :",
+			"}\n",
+			"imagepicker",
+			"highte",
+			"2000",
+			"footer",
+			"input",
+			"border ",
+			"hightechthumb",
+			"imagepick",
+			"hight",
+			"high",
+			"16 Carlisle Street",
+			"qr",
+			"qrio",
+			"mainNa",
+			"logo",
+			"philo",
+			"hightech",
+			"row-thirty",
+			"hightechbg",
+			"hightech",
+			"googlemaps",
+			"location",
+			"resident",
+			"residentoff"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"colourpicker",
+			"USERSFOLDER",
+			"manual/logos",
+			"FLOOR PLANS",
+			"Floor Plan",
+			"width: 70px;\n    height: 70px;",
+			"#map_canvas",
+			"1000",
+			"border",
+			"",
+			"359 Goswell Road",
+			"images/gallery/",
+			"div",
+			"Piano Bar",
+			"h5",
+			"210",
+			"",
+			"cur_string +=",
+			"class=\"violettext\"",
+			"",
+			"&",
+			"&amp;",
+			"&amp",
+			"virtualborder",
+			"row-ten",
+			"",
+			"ABC",
+			"",
+			"6E73BA",
+			"MUSIC FOR MEDIA",
+			"30 DUCKS",
+			"prompt",
+			"sanitised_input",
+			"Configuration",
+			"add_images",
+			"make_chunks_list",
+			"make_image_list",
+			"print_stats",
+			"write_file",
+			"make_filename",
+			"make_footer",
+			"previous_file",
+			"next_file",
+			"imagesfolder",
+			"output_filename",
+			"chunk_number",
+			"cur_folder",
+			"cur_navdata",
+			"cur_stylesheet",
+			"cur_image_list",
+			"chunk_list",
+			"output_data",
+			"cur_filetype",
+			"num_of_chunks",
+			"cur_file_list",
+			"cur_date_time",
+			"cur_filename",
+			"cur_chunk_number",
+			"curfolderaddr",
+			"navdata",
+			"folderlist",
+			"outputfile",
+			"outputFile",
+			"newfilename",
+			"newimagelist",
+			"subfolder",
+			"folderaddr",
+			"curfoldername",
+			"rootfolder",
+			"    ",
+			"pages",
+			"print",
+			"float",
+			"+="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "speedtestr.py",
+					"settings":
+					{
+						"buffer_size": 3616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.431411142941,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"sohorooms/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/christiegrinham/Dropbox/Programming/Python/Projects/sitebuilder/sitebuilder.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true
+}
