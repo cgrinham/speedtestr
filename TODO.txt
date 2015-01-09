@@ -1,4 +1,0 @@
-TODO.txt
-
-Daily charts
-Command line switch for speedtest, file names etc
